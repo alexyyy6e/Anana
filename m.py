@@ -318,8 +318,8 @@ Vip 🌟 :
 -> Concurrents Attack : 3
 
 Pr-ice List💸 :
-Day-->50 Rs
-Week-->300 Rs
+Day-->100 Rs
+Week-->400 Rs
 Month-->1000 Rs
 '''
     bot.reply_to(message, response)
