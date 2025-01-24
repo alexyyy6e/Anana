@@ -240,7 +240,7 @@ def handle_aadi(message):
         else:
             response = "AVAILABLE :- /aadi <target> <port> <time>"  # Updated command syntax
     else:
-        response = " ミ🥹★ 𝘈𝘤𝘤𝘦𝘴𝘴 𝘭𝘦 𝘭𝘦 𝘣𝘳𝘰 ★🥹彡DM - @junaidx_16 ."
+        response = " ミDM for access - @junaidx_16 ."
 
     bot.reply_to(message, response)
 
